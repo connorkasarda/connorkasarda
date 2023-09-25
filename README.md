@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @connorkasarda
-- 👀 I’m interested in theoretical computer science: artifical intelligence, neuroevolution, and robotics
+- 👀 I’m interested in theoretical computer science: human-computer interaction & artifical intelligence
 - 🌱 I’m currently learning languages such as Processing, JavaScript, TypeScript, and Python as well as AFrame (HTML, CSS) and Unity (C#)
-- 💞️ I’m looking to collaborate on projects related to artificial intelligence and virtual environments
+- 💞️ I’m looking to collaborate on projects related to human-computer interaction, artificial intelligence, and virtual environments
 - 📫 How to reach me: connorkasarda@gmail.com
 
 <!---
